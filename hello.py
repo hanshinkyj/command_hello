@@ -1,5 +1,6 @@
 // For command line git tutorial
-// 로컬에서 수정
+// First: GitHub 에서 수정
+// Second: 로컬에서 수정
 
 print("Hello world")
 print("Tell Your World")
